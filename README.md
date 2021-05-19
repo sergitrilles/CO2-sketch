@@ -1,4 +1,4 @@
-# SEnviro node 
+# CO2 node 
 
 A Particle project named CO2
 
